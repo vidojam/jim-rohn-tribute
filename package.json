@@ -3,7 +3,6 @@
     "gh-pages": "^5.0.0"
   },
   "name": "jim-rohn-tribute",
-  "homepage": "https://vidojam.github.io/jim-rohn-tribute",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
